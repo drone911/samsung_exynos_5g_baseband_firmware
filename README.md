@@ -3,7 +3,7 @@ This repository contains Samsung Exynos (AKA Shannon) 5g capable baseband firmwa
 
 "ATtention-on-Base" TLDR: Finding vulnerabilities in AT Commands ([Vulneribility Anlysis of AT commands Tian et al. 2018](https://www.semanticscholar.org/paper/ATtention-Spanned%3A-Comprehensive-Vulnerability-of-Tian-Hernandez/9b3565ec984c01d9fdd2e682037d89a41e47e3d3)) using fuzzing in Shannon and Mediatek baseband binaries.
 
-# Baseband Binaries
+# Baseband Firmware
 **CP_A146BXXU1AVL4_CP23443864**: *A14 5G (Exynos 1330)*  
 **CP_A3360ZHU4AVI5_CP22980956**: *A33 5G (Exynos 1280)*  
 **CP_A536USQS4AVL1_CP23396906**: *A53 5G (Exynos 1280)*  
