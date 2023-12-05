@@ -1,7 +1,7 @@
 # README
 This repository contains Samsung Exynos (AKA Shannon) 5g capable baseband firmware downloaded from "sammobile.com" for the project "ATtention-on-Base". Sharing them to reduce manual efforts for further academic use.
 
-"ATtention-on-Base" TLDR: Finding vulnerabilities in AT Commands ([Vulneribility Anlysis of AT commands Tian et al. 2018](https://www.semanticscholar.org/paper/ATtention-Spanned%3A-Comprehensive-Vulnerability-of-Tian-Hernandez/9b3565ec984c01d9fdd2e682037d89a41e47e3d3)) using fuzzing in Shannon and Mediatek baseband binaries.
+**ATtention-on-Base's Objective**: Finding vulnerabilities in AT Commands ([Vulneribility Anlysis of AT commands Tian et al. 2018](https://www.semanticscholar.org/paper/ATtention-Spanned%3A-Comprehensive-Vulnerability-of-Tian-Hernandez/9b3565ec984c01d9fdd2e682037d89a41e47e3d3)) using fuzzing in Shannon and Mediatek baseband binaries.
 
 # Baseband Firmware
 **CP_A146BXXU1AVL4_CP23443864**: *A14 5G (Exynos 1330)*  
